@@ -1,0 +1,6 @@
+17:07:26 **** Incremental Build of configuration x86_64-debug for project myDevice ****
+make -j12 all 
+make: Nothing to be done for 'all'.
+
+17:07:26 Build Finished (took 113ms)
+
